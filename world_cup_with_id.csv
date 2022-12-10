@@ -1,0 +1,251 @@
+country,points,id
+Afghanistan,NA,4
+Albania,NA,8
+Antarctica,NA,10
+Algeria,39,12
+American Samoa,NA,16
+Andorra,NA,20
+Angola,NA,24
+Azerbaijan,NA,31
+Argentina,62,32
+Australia,20,36
+Austria,30,40
+Bahamas,NA,44
+Bahrain,NA,48
+Bangladesh,77,50
+Armenia,NA,51
+Barbados,NA,52
+Belgium,32,56
+Bermuda,NA,60
+Bhutan,NA,64
+Bolivia,47,68
+Botswana,NA,72
+Bouvet Island,NA,74
+Brazil,41,76
+Belize,NA,84
+British Indian Ocean Territory,NA,86
+Solomon Islands,NA,90
+Brunei,NA,96
+Bulgaria,16,100
+Burundi,NA,108
+Belarus,15,112
+Cambodia,NA,116
+Cameroon,NA,120
+Canada,20,124
+Cape Verde,NA,132
+Cayman Islands,NA,136
+Central African Republic,NA,140
+Sri Lanka,28,144
+Chad,NA,148
+Chile,32,152
+China,13,156
+Taiwan,20,158
+Christmas Island,NA,162
+Colombia,41,170
+Comoros,NA,174
+Mayotte,NA,175
+Cook Islands,NA,184
+Costa Rica,45,188
+Croatia,20,191
+Cuba,NA,192
+Cyprus,NA,196
+Czechia,7,203
+Benin,NA,204
+Denmark,20,208
+Dominica,NA,212
+Dominican Republic,NA,214
+Ecuador,45,218
+El Salvador,47,222
+Equatorial Guinea,NA,226
+Ethiopia,NA,231
+Eritrea,NA,232
+Estonia,NA,233
+Faroe Islands,NA,234
+Fiji,NA,242
+Finland,13,246
+Åland Islands,NA,248
+France,28,250
+French Guiana,NA,254
+French Polynesia,NA,258
+French Southern Territories,NA,260
+Djibouti,NA,262
+Gabon,NA,266
+Georgia,NA,268
+Gambia,NA,270
+Palestine,NA,275
+Germany,35,276
+Ghana,45,288
+Gibraltar,NA,292
+Kiribati,NA,296
+Greece,16,300
+Greenland,NA,304
+Grenada,NA,308
+Guadeloupe,NA,312
+Guam,NA,316
+Guatemala,56,320
+Guinea,NA,324
+Guyana,NA,328
+Haiti,NA,332
+Honduras,49,340
+Hong Kong,28,344
+Hungary,16,348
+Iceland,NA,352
+India,22,356
+Indonesia,41,360
+Iran,24,364
+Iraq,30,368
+Ireland,28,372
+Israel,24,376
+Italy,26,380
+Jamaica,NA,388
+Japan,11,392
+Kazakhstan,22,398
+Jordan,43,400
+Kenya,43,404
+North Korea,NA,408
+South Korea,18,410
+Kuwait,33,414
+Lebanon,64,422
+Lesotho,NA,426
+Latvia,NA,428
+Liberia,NA,430
+Libya,NA,434
+Liechtenstein,NA,438
+Lithuania,NA,440
+Luxembourg,NA,442
+Macao,NA,446
+Madagascar,NA,450
+Malawi,NA,454
+Malaysia,35,458
+Maldives,NA,462
+Mali,NA,466
+Malta,NA,470
+Martinique,NA,474
+Mauritania,NA,478
+Mauritius,NA,480
+Mexico,30,484
+Monaco,NA,492
+Mongolia,NA,496
+Moldova,NA,498
+Montenegro,NA,499
+Montserrat,NA,500
+Morocco,33,504
+Mozambique,NA,508
+Oman,47,512
+Namibia,NA,516
+Nauru,NA,520
+Nepal,100,524
+Netherlands,28,528
+Curaçao,NA,531
+Aruba,NA,533
+Sint Maarten,NA,534
+New Caledonia,NA,540
+Vanuatu,NA,548
+New Zealand,20,554
+Nicaragua,NA,558
+Niger,NA,562
+Nigeria,33,566
+Niue,NA,570
+Norfolk Island,NA,574
+Norway,18,578
+Northern Mariana Islands,NA,580
+Micronesia,NA,583
+Marshall Islands,NA,584
+Palau,NA,585
+Pakistan,30,586
+Panama,58,591
+Papua New Guinea,NA,598
+Paraguay,45,600
+Peru,39,604
+Philippines,3,608
+Poland,18,616
+Portugal,28,620
+Guinea-Bissau,NA,624
+Timor-Leste,NA,626
+Puerto Rico,NA,630
+Qatar,73,634
+Réunion,NA,638
+Romania,15,642
+Russia,15,643
+Rwanda,NA,646
+Anguilla,NA,660
+St. Lucia,NA,662
+San Marino,NA,674
+Saudi Arabia,30,682
+Senegal,NA,686
+Serbia,16,688
+Seychelles,NA,690
+Sierra Leone,NA,694
+Singapore,35,702
+Vietnam,47,704
+Slovenia,NA,705
+Somalia,NA,706
+South Africa,28,710
+Zimbabwe,NA,716
+Spain,26,724
+South Sudan,NA,728
+Sudan,NA,729
+Western Sahara,NA,732
+Suriname,NA,740
+Eswatini,NA,748
+Sweden,26,752
+Switzerland,39,756
+Syria,47,760
+Tajikistan,NA,762
+Thailand,24,764
+Togo,NA,768
+Tokelau,NA,772
+Tonga,NA,776
+United Arab Emirates,45,784
+Tunisia,37,788
+Turkey,9,792
+Turkmenistan,NA,795
+Tuvalu,NA,798
+Uganda,NA,800
+Ukraine,13,804
+North Macedonia,NA,807
+Egypt,39,818
+United Kingdom,26,826
+Guernsey,NA,831
+Jersey,NA,832
+Isle of Man,NA,833
+Tanzania,NA,834
+United States,13,840
+Burkina Faso,NA,854
+Uruguay,58,858
+Uzbekistan,NA,860
+Venezuela,33,862
+Samoa,NA,882
+Yemen,NA,887
+Zambia,NA,894
+Congo - Kinshasa,NA,NA
+Congo - Brazzaville,NA,NA
+Caribbean Netherlands,NA,NA
+Côte d’Ivoire,NA,NA
+Trinidad & Tobago,NA,NA
+São Tomé & Príncipe,NA,NA
+Falkland Islands (Islas Malvinas),NA,NA
+St. Barthélemy,NA,NA
+Laos,NA,NA
+St. Martin,NA,NA
+Svalbard & Jan Mayen,NA,NA
+Turks & Caicos Islands,NA,NA
+St. Vincent & Grenadines,NA,NA
+Antigua & Barbuda,NA,NA
+St. Kitts & Nevis,NA,NA
+Kyrgyzstan,NA,NA
+St. Helena,NA,NA
+Myanmar (Burma),NA,NA
+St. Pierre & Miquelon,NA,NA
+British Virgin Islands,NA,NA
+Bosnia & Herzegovina,NA,NA
+Kosovo,NA,NA
+U.S. Virgin Islands,NA,NA
+Slovakia,NA,NA
+Cocos (Keeling) Islands,NA,NA
+Heard & McDonald Islands,NA,NA
+Pitcairn Islands,NA,NA
+South Georgia & South Sandwich Islands,NA,NA
+U.S. Outlying Islands,NA,NA
+Vatican City,NA,NA
+Wallis & Futuna,NA,NA
